@@ -4,15 +4,17 @@
     "musebe.clerkdocs-snippets",
     "ysemeniuk.emmet-live",
     "rodrigovallades.es7-react-js-snippets",
-    "dsznajder.es7-react-js-snippets",
     "xabikos.javascriptsnippets",
     "ms-vscode.vscode-typescript-next",
-    "skyran.js-jsx-snippets",
     "leizongmin.node-module-intellisense",
     "eg2.vscode-npm-script",
     "esbenp.prettier-vscode",
     "burkeholland.simple-react-snippets",
     "bradlc.vscode-tailwindcss",
-    "infeng.vscode-react-typescript"
+    "infeng.vscode-react-typescript",
+    "dbaeumer.vscode-eslint",
+    "naumovs.trailing-semicolon",
+    "pmneo.tsimporter",
+    "yoavbls.pretty-ts-errors"
   ]
 }

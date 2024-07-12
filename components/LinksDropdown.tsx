@@ -24,7 +24,7 @@ const LinksDropDown = () => {
         align='start'
         sideOffset={25}>
         {links.map((link) => <DropdownMenuItem key={link.href}>
-          <Link href={link.href}>
+          <Link href={link.href} className='flex items-center gap-x-2'>
             {link.icon} <span className='capitalize'>{link.label}</span>
           </Link>
         </DropdownMenuItem>)}
